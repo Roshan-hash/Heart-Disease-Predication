@@ -1,0 +1,2 @@
+# Heart-Disease-Predication
+Machine learning (ML) proves to be effective in assisting in making decisions and predictions from the large quantity of data produced by the healthcare industry .The people’s age who are suffering from the disease or not. Here, target = 1 implies that the person is suffering from heart disease and target = 0 implies the person is not suffering. The dataset contains 14 columns and 303 rows.
